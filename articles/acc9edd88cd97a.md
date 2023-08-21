@@ -10,7 +10,7 @@ published: true
 fast-forward = 早送りの意味
 
 
-**remotes/origin/otoro**と**origin/maguro**がcommitとして含まれている(進んでいる)形となっている事
+**あるAブランチ**と**Bブランチ**を比較した際に、前者(A)が後者(B)をcommitとして含まれている(進んでいる)形となっている事
 
 
 ```git
