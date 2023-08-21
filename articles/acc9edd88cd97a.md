@@ -52,7 +52,7 @@ Date:   Fri Apr 8 21:46:21 2022 +0900
     Initial commit
 
 ```
-上記でも確認できるが、**git checkout -t origin/maguro**を行った後にorotoとの差分を確認する
+上記でも確認できるが、**git checkout -t origin/maguro**を行った後にotoroとの差分を確認する
 
 ```git
 git-sushi on  maguro 🤖 v16.20.0
