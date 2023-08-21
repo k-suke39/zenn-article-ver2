@@ -1,5 +1,5 @@
 ---
-title: "【GitHub】fast-forwardについて"
+title: "【Git】fast-forwardについて"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Github"]
