@@ -42,7 +42,7 @@ Paiza 様には、丁度よく C ランクを目指すレッスン(https://paiza
 - TOTAL : 1.5h
   [![Image from Gyazo](https://i.gyazo.com/288d934d750e922bbde1b3bb1057bf11.png)](https://gyazo.com/288d934d750e922bbde1b3bb1057bf11)
 
-### 1 日目
+### 2 日目
 
 - CHAPTER8 完了
 - CHAPTER9 標準出力 12/50
